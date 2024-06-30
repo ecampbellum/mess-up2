@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Project 2</title>
+    <!-- Meta data and information about your site, not visible to visitors. -->
+  </head>
+
+  <body>
+    <header>
+        <nav>
+            <!-- Site Links -->
+          </nav>
+          
+          
+          <!-- For example... -->
+          <nav id="main-menu">
+            <a href="#">Home</a>
+            <a href="#">Gallery</a>
+            <a href="#">About</a>
+            <a href="#">Contact</a>
+          </nav>
+    </header>
+    <main>
+        <div id="about">
+            <!-- Content -->
+          </div>
+          
+          <div id="facts">
+            <!-- Different Content -->
+          </div><div id="content">
+            <!-- Content -->
+          </div>
+    </main>
+    <footer>
+    </footer>
+    <!-- “My Way-Cool Awesome Site!” contents, visible to visitors. -->
+  </body>
+</html>
